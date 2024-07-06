@@ -6,6 +6,7 @@ leetcode practice problems
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kjayasravani/leetcode/tree/master/0189-rotate-array) |
 | [2645-pass-the-pillow](https://github.com/kjayasravani/leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -20,8 +21,10 @@ leetcode practice problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kjayasravani/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/kjayasravani/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kjayasravani/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/kjayasravani/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
