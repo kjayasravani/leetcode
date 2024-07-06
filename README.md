@@ -16,4 +16,12 @@ leetcode practice problems
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kjayasravani/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kjayasravani/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kjayasravani/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
