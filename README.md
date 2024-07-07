@@ -7,10 +7,12 @@ leetcode practice problems
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kjayasravani/leetcode/tree/master/0189-rotate-array) |
+| [1642-water-bottles](https://github.com/kjayasravani/leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/kjayasravani/leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/kjayasravani/leetcode/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kjayasravani/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/kjayasravani/leetcode/tree/master/2645-pass-the-pillow) |
 ## Linked List
