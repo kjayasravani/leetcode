@@ -26,6 +26,7 @@ leetcode practice problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kjayasravani/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/kjayasravani/leetcode/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kjayasravani/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/kjayasravani/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kjayasravani/leetcode/tree/master/0283-move-zeroes) |
@@ -58,5 +59,6 @@ leetcode practice problems
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kjayasravani/leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/kjayasravani/leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
