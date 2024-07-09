@@ -14,6 +14,7 @@ leetcode practice problems
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/kjayasravani/leetcode/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/kjayasravani/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kjayasravani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/kjayasravani/leetcode/tree/master/2058-concatenation-of-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kjayasravani/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -32,6 +33,7 @@ leetcode practice problems
 | [0283-move-zeroes](https://github.com/kjayasravani/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kjayasravani/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/kjayasravani/leetcode/tree/master/0792-binary-search) |
+| [1803-average-waiting-time](https://github.com/kjayasravani/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kjayasravani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/kjayasravani/leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
