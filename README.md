@@ -6,6 +6,7 @@ leetcode practice problems
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kjayasravani/leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/kjayasravani/leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/kjayasravani/leetcode/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/kjayasravani/leetcode/tree/master/1642-water-bottles) |
@@ -14,6 +15,7 @@ leetcode practice problems
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kjayasravani/leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/kjayasravani/leetcode/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/kjayasravani/leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/kjayasravani/leetcode/tree/master/1803-average-waiting-time) |
@@ -74,6 +76,7 @@ leetcode practice problems
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kjayasravani/leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/kjayasravani/leetcode/tree/master/0412-fizz-buzz) |
 | [1720-crawler-log-folder](https://github.com/kjayasravani/leetcode/tree/master/1720-crawler-log-folder) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kjayasravani/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
