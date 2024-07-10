@@ -20,6 +20,7 @@ leetcode practice problems
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kjayasravani/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kjayasravani/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/kjayasravani/leetcode/tree/master/2645-pass-the-pillow) |
+| [3311-ant-on-the-boundary](https://github.com/kjayasravani/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Linked List
 |  |
 | ------- |
@@ -39,6 +40,7 @@ leetcode practice problems
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kjayasravani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/kjayasravani/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kjayasravani/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3311-ant-on-the-boundary](https://github.com/kjayasravani/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +74,8 @@ leetcode practice problems
 | ------- |
 | [1720-crawler-log-folder](https://github.com/kjayasravani/leetcode/tree/master/1720-crawler-log-folder) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kjayasravani/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/kjayasravani/leetcode/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
