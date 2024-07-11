@@ -55,6 +55,7 @@ leetcode practice problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kjayasravani/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kjayasravani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kjayasravani/leetcode/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
@@ -78,6 +79,7 @@ leetcode practice problems
 | ------- |
 | [0043-multiply-strings](https://github.com/kjayasravani/leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/kjayasravani/leetcode/tree/master/0412-fizz-buzz) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kjayasravani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kjayasravani/leetcode/tree/master/1720-crawler-log-folder) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kjayasravani/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
