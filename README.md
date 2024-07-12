@@ -57,6 +57,7 @@ leetcode practice problems
 | [0084-largest-rectangle-in-histogram](https://github.com/kjayasravani/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kjayasravani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kjayasravani/leetcode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/kjayasravani/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -81,9 +82,14 @@ leetcode practice problems
 | [0412-fizz-buzz](https://github.com/kjayasravani/leetcode/tree/master/0412-fizz-buzz) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kjayasravani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kjayasravani/leetcode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/kjayasravani/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kjayasravani/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/kjayasravani/leetcode/tree/master/3311-ant-on-the-boundary) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/kjayasravani/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
