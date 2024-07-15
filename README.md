@@ -51,6 +51,7 @@ leetcode practice problems
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kjayasravani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/kjayasravani/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kjayasravani/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/kjayasravani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/kjayasravani/leetcode/tree/master/2846-robot-collisions) |
 | [3311-ant-on-the-boundary](https://github.com/kjayasravani/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Two Pointers
@@ -111,4 +112,16 @@ leetcode practice problems
 |  |
 | ------- |
 | [2846-robot-collisions](https://github.com/kjayasravani/leetcode/tree/master/2846-robot-collisions) |
+## Hash Table
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/kjayasravani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/kjayasravani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/kjayasravani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
