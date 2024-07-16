@@ -9,6 +9,7 @@ leetcode practice problems
 | [0043-multiply-strings](https://github.com/kjayasravani/leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/kjayasravani/leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/kjayasravani/leetcode/tree/master/0412-fizz-buzz) |
+| [1610-xor-operation-in-an-array](https://github.com/kjayasravani/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/kjayasravani/leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kjayasravani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/kjayasravani/leetcode/tree/master/2645-pass-the-pillow) |
@@ -131,4 +132,8 @@ leetcode practice problems
 |  |
 | ------- |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kjayasravani/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/kjayasravani/leetcode/tree/master/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
