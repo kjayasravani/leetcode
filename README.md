@@ -48,6 +48,7 @@ leetcode practice problems
 | [0485-max-consecutive-ones](https://github.com/kjayasravani/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kjayasravani/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/kjayasravani/leetcode/tree/master/0792-binary-search) |
+| [1207-delete-nodes-and-return-forest](https://github.com/kjayasravani/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1720-crawler-log-folder](https://github.com/kjayasravani/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/kjayasravani/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kjayasravani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -119,20 +120,24 @@ leetcode practice problems
 ## Hash Table
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/kjayasravani/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/kjayasravani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/kjayasravani/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kjayasravani/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/kjayasravani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/kjayasravani/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kjayasravani/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/kjayasravani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/kjayasravani/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kjayasravani/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Bit Manipulation
 |  |
