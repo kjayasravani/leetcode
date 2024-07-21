@@ -57,6 +57,7 @@ leetcode practice problems
 | [2058-concatenation-of-array](https://github.com/kjayasravani/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kjayasravani/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/kjayasravani/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/kjayasravani/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/kjayasravani/leetcode/tree/master/2846-robot-collisions) |
 | [3311-ant-on-the-boundary](https://github.com/kjayasravani/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Two Pointers
@@ -160,4 +161,13 @@ leetcode practice problems
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kjayasravani/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2472-build-a-matrix-with-conditions](https://github.com/kjayasravani/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/kjayasravani/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/kjayasravani/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
