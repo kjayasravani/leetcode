@@ -50,6 +50,7 @@ leetcode practice problems
 | [0540-single-element-in-a-sorted-array](https://github.com/kjayasravani/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/kjayasravani/leetcode/tree/master/0792-binary-search) |
 | [1207-delete-nodes-and-return-forest](https://github.com/kjayasravani/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1333-sort-the-jumbled-numbers](https://github.com/kjayasravani/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kjayasravani/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/kjayasravani/leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kjayasravani/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -122,6 +123,7 @@ leetcode practice problems
 ## Sorting
 |  |
 | ------- |
+| [1333-sort-the-jumbled-numbers](https://github.com/kjayasravani/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kjayasravani/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/kjayasravani/leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/kjayasravani/leetcode/tree/master/2846-robot-collisions) |
