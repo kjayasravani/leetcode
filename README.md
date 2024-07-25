@@ -49,6 +49,7 @@ leetcode practice problems
 | [0485-max-consecutive-ones](https://github.com/kjayasravani/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kjayasravani/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/kjayasravani/leetcode/tree/master/0792-binary-search) |
+| [0948-sort-an-array](https://github.com/kjayasravani/leetcode/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/kjayasravani/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/kjayasravani/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kjayasravani/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -123,6 +124,7 @@ leetcode practice problems
 ## Sorting
 |  |
 | ------- |
+| [0948-sort-an-array](https://github.com/kjayasravani/leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/kjayasravani/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kjayasravani/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/kjayasravani/leetcode/tree/master/2502-sort-the-people) |
@@ -166,6 +168,7 @@ leetcode practice problems
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kjayasravani/leetcode/tree/master/0191-number-of-1-bits) |
+| [0948-sort-an-array](https://github.com/kjayasravani/leetcode/tree/master/0948-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -179,4 +182,24 @@ leetcode practice problems
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/kjayasravani/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/kjayasravani/leetcode/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/kjayasravani/leetcode/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/kjayasravani/leetcode/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/kjayasravani/leetcode/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/kjayasravani/leetcode/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
