@@ -55,6 +55,7 @@ leetcode practice problems
 | [0719-find-k-th-smallest-pair-distance](https://github.com/kjayasravani/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/kjayasravani/leetcode/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/kjayasravani/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/kjayasravani/leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/kjayasravani/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/kjayasravani/leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/kjayasravani/leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -151,6 +152,7 @@ leetcode practice problems
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/kjayasravani/leetcode/tree/master/0890-lemonade-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kjayasravani/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kjayasravani/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
