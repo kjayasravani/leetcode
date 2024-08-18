@@ -9,6 +9,7 @@ leetcode practice problems
 | [0043-multiply-strings](https://github.com/kjayasravani/leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/kjayasravani/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kjayasravani/leetcode/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/kjayasravani/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/kjayasravani/leetcode/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/kjayasravani/leetcode/tree/master/0412-fizz-buzz) |
 | [0870-magic-squares-in-grid](https://github.com/kjayasravani/leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -174,6 +175,7 @@ leetcode practice problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kjayasravani/leetcode/tree/master/0001-two-sum) |
+| [0264-ugly-number-ii](https://github.com/kjayasravani/leetcode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/kjayasravani/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/kjayasravani/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/kjayasravani/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -243,6 +245,7 @@ leetcode practice problems
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/kjayasravani/leetcode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kjayasravani/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/kjayasravani/leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -267,6 +270,7 @@ leetcode practice problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/kjayasravani/leetcode/tree/master/0264-ugly-number-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/kjayasravani/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kjayasravani/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/kjayasravani/leetcode/tree/master/1511-count-number-of-teams) |
