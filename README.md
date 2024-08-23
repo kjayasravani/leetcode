@@ -143,6 +143,7 @@ leetcode practice problems
 | [0412-fizz-buzz](https://github.com/kjayasravani/leetcode/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kjayasravani/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/kjayasravani/leetcode/tree/master/0664-strange-printer) |
+| [1205-defanging-an-ip-address](https://github.com/kjayasravani/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kjayasravani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kjayasravani/leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/kjayasravani/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
