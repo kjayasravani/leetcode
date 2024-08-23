@@ -138,6 +138,7 @@ leetcode practice problems
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kjayasravani/leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/kjayasravani/leetcode/tree/master/0043-multiply-strings) |
 | [0273-integer-to-english-words](https://github.com/kjayasravani/leetcode/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/kjayasravani/leetcode/tree/master/0412-fizz-buzz) |
@@ -337,4 +338,8 @@ leetcode practice problems
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/kjayasravani/leetcode/tree/master/1240-stone-game-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kjayasravani/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
