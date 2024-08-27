@@ -69,6 +69,7 @@ leetcode practice problems
 | [1196-filling-bookcase-shelves](https://github.com/kjayasravani/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/kjayasravani/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/kjayasravani/leetcode/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/kjayasravani/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/kjayasravani/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kjayasravani/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/kjayasravani/leetcode/tree/master/1511-count-number-of-teams) |
@@ -256,6 +257,7 @@ leetcode practice problems
 ## Graph
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/kjayasravani/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kjayasravani/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/kjayasravani/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kjayasravani/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -270,6 +272,7 @@ leetcode practice problems
 | [0264-ugly-number-ii](https://github.com/kjayasravani/leetcode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kjayasravani/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/kjayasravani/leetcode/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/kjayasravani/leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Merge Sort
 |  |
 | ------- |
@@ -304,6 +307,7 @@ leetcode practice problems
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/kjayasravani/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kjayasravani/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/kjayasravani/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kjayasravani/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
