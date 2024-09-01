@@ -32,6 +32,7 @@ leetcode practice problems
 | [1803-average-waiting-time](https://github.com/kjayasravani/leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kjayasravani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/kjayasravani/leetcode/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/kjayasravani/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kjayasravani/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kjayasravani/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/kjayasravani/leetcode/tree/master/2645-pass-the-pillow) |
@@ -83,6 +84,7 @@ leetcode practice problems
 | [2035-count-sub-islands](https://github.com/kjayasravani/leetcode/tree/master/2035-count-sub-islands) |
 | [2058-concatenation-of-array](https://github.com/kjayasravani/leetcode/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/kjayasravani/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/kjayasravani/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kjayasravani/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kjayasravani/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/kjayasravani/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -258,6 +260,7 @@ leetcode practice problems
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kjayasravani/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kjayasravani/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/kjayasravani/leetcode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/kjayasravani/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kjayasravani/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
 |  |
