@@ -152,6 +152,7 @@ leetcode practice problems
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kjayasravani/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/kjayasravani/leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/kjayasravani/leetcode/tree/master/0043-multiply-strings) |
 | [0273-integer-to-english-words](https://github.com/kjayasravani/leetcode/tree/master/0273-integer-to-english-words) |
@@ -203,6 +204,7 @@ leetcode practice problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kjayasravani/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kjayasravani/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0264-ugly-number-ii](https://github.com/kjayasravani/leetcode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/kjayasravani/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/kjayasravani/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -346,6 +348,7 @@ leetcode practice problems
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kjayasravani/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kjayasravani/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Union Find
 |  |
