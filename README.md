@@ -80,6 +80,7 @@ leetcode practice problems
 | [0921-spiral-matrix-iii](https://github.com/kjayasravani/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/kjayasravani/leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/kjayasravani/leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1046-max-consecutive-ones-iii](https://github.com/kjayasravani/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/kjayasravani/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/kjayasravani/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/kjayasravani/leetcode/tree/master/1240-stone-game-ii) |
@@ -162,6 +163,7 @@ leetcode practice problems
 | [0540-single-element-in-a-sorted-array](https://github.com/kjayasravani/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/kjayasravani/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/kjayasravani/leetcode/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/kjayasravani/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kjayasravani/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kjayasravani/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
@@ -195,6 +197,7 @@ leetcode practice problems
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/kjayasravani/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/kjayasravani/leetcode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/kjayasravani/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kjayasravani/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -377,6 +380,7 @@ leetcode practice problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kjayasravani/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/kjayasravani/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kjayasravani/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Union Find
 |  |
