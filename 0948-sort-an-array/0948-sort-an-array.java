@@ -1,53 +1,45 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        int[] temp = new int[nums.length]; // Temporary array for merging
-        mergeSort(nums, temp, 0, nums.length - 1);
+        int n = nums.length;
+        mergeSortHelper(nums, 0, n-1);
         return nums;
     }
-    
-    private void mergeSort(int[] nums, int[] temp, int left, int right) {
-        if (left < right) {
-            int mid = left + (right - left) / 2;
-            mergeSort(nums, temp, left, mid); // Sort left half
-            mergeSort(nums, temp, mid + 1, right); // Sort right half
-            merge(nums, temp, left, mid, right); // Merge sorted halves
+    public void mergeSortHelper(int[] arr, int low, int high){
+        if(low>=high){
+            return;
         }
+        int mid = (low+high)/2;
+        mergeSortHelper(arr,low,mid);
+        mergeSortHelper(arr,mid+1,high);
+        merge(arr,low,mid,high);
     }
-    
-    private void merge(int[] nums, int[] temp, int left, int mid, int right) {
-        // Copy elements into temp array
-        for (int i = left; i <= right; i++) {
-            temp[i] = nums[i];
-        }
-        
-        // Merge sorted halves from temp array back into nums array
-        int i = left; // Initial index for left subarray
-        int j = mid + 1; // Initial index for right subarray
-        int k = left; // Initial index for merged subarray
-        
-        while (i <= mid && j <= right) {
-            if (temp[i] <= temp[j]) {
-                nums[k] = temp[i];
-                i++;
-            } else {
-                nums[k] = temp[j];
-                j++;
+
+    public void merge(int[] arr,int low, int mid, int high){
+        List<Integer> temp = new ArrayList<>();
+        int left = low;
+        int right = mid+1;
+
+        while(left<= mid && right<=high){
+            if(arr[left]<=arr[right]){
+                temp.add(arr[left]);
+                left++;
             }
-            k++;
+            else{
+                temp.add(arr[right]);
+                right++;
+            }
         }
-        
-        // Copy remaining elements of left subarray if any
-        while (i <= mid) {
-            nums[k] = temp[i];
-            i++;
-            k++;
+
+        while(left<=mid){
+            temp.add(arr[left]);
+            left++;
         }
-        
-        // Copy remaining elements of right subarray if any
-        while (j <= right) {
-            nums[k] = temp[j];
-            j++;
-            k++;
+        while(right<=high){
+            temp.add(arr[right]);
+            right++;
+        }
+        for(int i=low; i<=high;i++){
+            arr[i] = temp.get(i-low);
         }
     }
 }
