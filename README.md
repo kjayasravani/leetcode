@@ -111,6 +111,7 @@ leetcode practice problems
 | [2411-spiral-matrix-iv](https://github.com/kjayasravani/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kjayasravani/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/kjayasravani/leetcode/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kjayasravani/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/kjayasravani/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/kjayasravani/leetcode/tree/master/2846-robot-collisions) |
 | [3194-find-words-containing-character](https://github.com/kjayasravani/leetcode/tree/master/3194-find-words-containing-character) |
@@ -285,6 +286,7 @@ leetcode practice problems
 | [1610-xor-operation-in-an-array](https://github.com/kjayasravani/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kjayasravani/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kjayasravani/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kjayasravani/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -420,4 +422,8 @@ leetcode practice problems
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kjayasravani/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kjayasravani/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
