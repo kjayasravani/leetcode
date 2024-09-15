@@ -48,6 +48,7 @@ leetcode practice problems
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/kjayasravani/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/kjayasravani/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/kjayasravani/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kjayasravani/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -123,6 +124,7 @@ leetcode practice problems
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kjayasravani/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/kjayasravani/leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/kjayasravani/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kjayasravani/leetcode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kjayasravani/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/kjayasravani/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -132,6 +134,7 @@ leetcode practice problems
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kjayasravani/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kjayasravani/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/kjayasravani/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kjayasravani/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kjayasravani/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/kjayasravani/leetcode/tree/master/1720-crawler-log-folder) |
@@ -146,6 +149,7 @@ leetcode practice problems
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kjayasravani/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/kjayasravani/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/kjayasravani/leetcode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kjayasravani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
