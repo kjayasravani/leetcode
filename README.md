@@ -69,6 +69,7 @@ leetcode practice problems
 | [0084-largest-rectangle-in-histogram](https://github.com/kjayasravani/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kjayasravani/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kjayasravani/leetcode/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/kjayasravani/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/kjayasravani/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kjayasravani/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kjayasravani/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -179,6 +180,7 @@ leetcode practice problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/kjayasravani/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/kjayasravani/leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/kjayasravani/leetcode/tree/master/0043-multiply-strings) |
+| [0179-largest-number](https://github.com/kjayasravani/leetcode/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/kjayasravani/leetcode/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/kjayasravani/leetcode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/kjayasravani/leetcode/tree/master/0539-minimum-time-difference) |
@@ -216,6 +218,7 @@ leetcode practice problems
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/kjayasravani/leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/kjayasravani/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/kjayasravani/leetcode/tree/master/0890-lemonade-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kjayasravani/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -223,6 +226,7 @@ leetcode practice problems
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/kjayasravani/leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kjayasravani/leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/kjayasravani/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/kjayasravani/leetcode/tree/master/0948-sort-an-array) |
