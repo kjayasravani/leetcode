@@ -9,6 +9,7 @@ leetcode practice problems
 | [0043-multiply-strings](https://github.com/kjayasravani/leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/kjayasravani/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kjayasravani/leetcode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kjayasravani/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/kjayasravani/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/kjayasravani/leetcode/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/kjayasravani/leetcode/tree/master/0412-fizz-buzz) |
@@ -153,6 +154,7 @@ leetcode practice problems
 | ------- |
 | [0231-power-of-two](https://github.com/kjayasravani/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kjayasravani/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kjayasravani/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kjayasravani/leetcode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kjayasravani/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -181,6 +183,7 @@ leetcode practice problems
 | [0014-longest-common-prefix](https://github.com/kjayasravani/leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/kjayasravani/leetcode/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/kjayasravani/leetcode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kjayasravani/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kjayasravani/leetcode/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/kjayasravani/leetcode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/kjayasravani/leetcode/tree/master/0539-minimum-time-difference) |
@@ -368,6 +371,7 @@ leetcode practice problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kjayasravani/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/kjayasravani/leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/kjayasravani/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/kjayasravani/leetcode/tree/master/0664-strange-printer) |
@@ -445,4 +449,8 @@ leetcode practice problems
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kjayasravani/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kjayasravani/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
