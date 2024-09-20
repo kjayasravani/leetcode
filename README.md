@@ -183,6 +183,7 @@ leetcode practice problems
 | [0014-longest-common-prefix](https://github.com/kjayasravani/leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/kjayasravani/leetcode/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/kjayasravani/leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/kjayasravani/leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kjayasravani/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/kjayasravani/leetcode/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/kjayasravani/leetcode/tree/master/0412-fizz-buzz) |
@@ -453,4 +454,16 @@ leetcode practice problems
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/kjayasravani/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kjayasravani/leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kjayasravani/leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/kjayasravani/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
