@@ -29,6 +29,7 @@ leetcode practice problems
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kjayasravani/leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/kjayasravani/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/kjayasravani/leetcode/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/kjayasravani/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/kjayasravani/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -66,6 +67,7 @@ leetcode practice problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kjayasravani/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kjayasravani/leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/kjayasravani/leetcode/tree/master/0040-combination-sum-ii) |
+| [0054-spiral-matrix](https://github.com/kjayasravani/leetcode/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kjayasravani/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kjayasravani/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kjayasravani/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -318,6 +320,7 @@ leetcode practice problems
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kjayasravani/leetcode/tree/master/0054-spiral-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/kjayasravani/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/kjayasravani/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/kjayasravani/leetcode/tree/master/0999-regions-cut-by-slashes) |
